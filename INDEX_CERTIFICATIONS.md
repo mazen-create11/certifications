@@ -18,7 +18,7 @@ Ce dossier centralise l'ensemble des certifications, diplômes et accréditation
 
 | Intitulé | Date | Score | Vérification | Fichier Local | Sur LinkedIn |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Building AI** (Advanced Honors) | 20 oct. 2026 | 100% (50/50 points, 21/21 exos) | [Elements of AI](https://buildingai.elementsofai.com/account) | [`Preuve PNG`](file:///Users/chabanmazen/Certifications/Building_AI_University_of_Helsinki_Completion_Mazen_Chaban.png) | **À ajouter ⏳** |
+| **Building AI** (Advanced Honors) | 20 oct. 2026 | 100% (50/50 points, 21/21 exos) | [Preuve Directe (GitHub)](https://raw.githubusercontent.com/mazen-create11/certifications/main/Building_AI_University_of_Helsinki_Completion_Mazen_Chaban.png) | [`Preuve PNG`](file:///Users/chabanmazen/Certifications/Building_AI_University_of_Helsinki_Completion_Mazen_Chaban.png) | **Oui ✅** |
 
 ---
 
@@ -26,8 +26,8 @@ Ce dossier centralise l'ensemble des certifications, diplômes et accréditation
 
 | Organisme | Intitulé | Date | ID / Référence | Sur LinkedIn |
 | :--- | :--- | :---: | :---: | :---: |
-| **Databricks** | Generative AI Fundamentals Accreditation | Oct. 2026 | Accréditation officielle | **Oui ✅** |
-| **Amazon Web Services (AWS)** | Introduction to Generative Artificial Intelligence | Oct. 2026 | Badge officiel ([Preuve](file:///Users/chabanmazen/Certifications/AWS_Educate_Intro_to_Generative_AI_Badge.png)) | **Oui ✅** |
+| **Databricks** | Generative AI Fundamentals Accreditation | Oct. 2026 | [Vérifier Repo Public](https://github.com/mazen-create11/certifications) | **Oui ✅** |
+| **Amazon Web Services (AWS)** | Introduction to Generative Artificial Intelligence | Oct. 2026 | [Badge Officiel Credly](https://www.credly.com/badges/25b0d5d0-3678-429a-91a2-da41bc05f48f) | **Oui ✅** |
 | **OpenAI** | Agents and Workflows | Sept. 2026 | `vdxv1royqb` | **Oui ✅** |
 | **OpenAI** | AI Foundations | Sept. 2026 | `v683jp2hgn` | **Oui ✅** |
 | **Anthropic** | Certificate of completion: Introduction to agent skills | Juin 2026 | `rpw5omsvqxqj` | **Oui ✅** |

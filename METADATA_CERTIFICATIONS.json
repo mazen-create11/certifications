@@ -35,8 +35,8 @@
     "issuer": "University of Helsinki",
     "issue_date": "2026-10-20",
     "credential_id": "21/21 exercises - 50/50 points",
-    "verification_url": "https://buildingai.elementsofai.com/account",
-    "on_linkedin": false,
+    "verification_url": "https://raw.githubusercontent.com/mazen-create11/certifications/main/Building_AI_University_of_Helsinki_Completion_Mazen_Chaban.png",
+    "on_linkedin": true,
     "local_file": "Building_AI_University_of_Helsinki_Completion_Mazen_Chaban.png"
   },
   {
@@ -45,7 +45,7 @@
     "issuer": "Databricks",
     "issue_date": "2026-10",
     "credential_id": null,
-    "verification_url": "https://customer-academy.databricks.com/",
+    "verification_url": "https://github.com/mazen-create11/certifications",
     "on_linkedin": true,
     "local_file": null
   },
@@ -53,9 +53,9 @@
     "category": "Cloud & Generative AI",
     "title": "Introduction to Generative Artificial Intelligence",
     "issuer": "Amazon Web Services (AWS)",
-    "issue_date": "2026-10",
-    "credential_id": null,
-    "verification_url": "https://www.awseducate.com/",
+    "issue_date": "2026-10-19",
+    "credential_id": "25b0d5d0-3678-429a-91a2-da41bc05f48f",
+    "verification_url": "https://www.credly.com/badges/25b0d5d0-3678-429a-91a2-da41bc05f48f",
     "on_linkedin": true,
     "local_file": "AWS_Educate_Intro_to_Generative_AI_Badge.png"
   },
