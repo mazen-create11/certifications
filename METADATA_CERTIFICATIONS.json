@@ -7,6 +7,7 @@
     "credential_id": "0e48a306-2db0-40a2-a17e-a2268316fd54",
     "verification_url": "https://cs50.harvard.edu/certificates/0e48a306-2db0-40a2-a17e-a2268316fd54",
     "on_linkedin": true,
+    "has_direct_diploma_button": true,
     "local_file": "Harvard_CS50_AI_Certificate_Mazen_Chaban.pdf"
   },
   {
@@ -17,6 +18,7 @@
     "credential_id": "a1929af2-1c35-4589-a181-2b700b26f26b",
     "verification_url": "https://cs50.harvard.edu/certificates/a1929af2-1c35-4589-a181-2b700b26f26b",
     "on_linkedin": true,
+    "has_direct_diploma_button": true,
     "local_file": "Harvard_CS50_SQL_Certificate_Mazen_Chaban.pdf"
   },
   {
@@ -27,16 +29,40 @@
     "credential_id": "web50-all-6-submitted",
     "verification_url": "https://cs50.me/cs50w",
     "on_linkedin": false,
+    "has_direct_diploma_button": false,
     "local_file": "cs50w_work/"
   },
   {
     "category": "Artificial Intelligence",
-    "title": "Building AI (Advanced Honors, 100%)",
+    "title": "AI Foundations",
+    "issuer": "OpenAI",
+    "issue_date": "2026-09-01",
+    "credential_id": "v683jp2hgn",
+    "verification_url": "https://academy.openai.com/public/certificate/v683jp2hgn",
+    "on_linkedin": true,
+    "has_direct_diploma_button": true,
+    "local_file": "OpenAI_AI_Foundations_Certificate_Mazen_Chaban.pdf"
+  },
+  {
+    "category": "Artificial Intelligence",
+    "title": "Agents and Workflows",
+    "issuer": "OpenAI",
+    "issue_date": "2026-09-01",
+    "credential_id": "vdxv1royqb",
+    "verification_url": "https://academy.openai.com/public/certificate/vdxv1royqb",
+    "on_linkedin": true,
+    "has_direct_diploma_button": true,
+    "local_file": "OpenAI_Agents_and_Workflows_Certificate_Mazen_Chaban.pdf"
+  },
+  {
+    "category": "Artificial Intelligence",
+    "title": "Building AI",
     "issuer": "University of Helsinki",
     "issue_date": "2026-10-20",
-    "credential_id": "21/21 exercises - 50/50 points",
-    "verification_url": "https://raw.githubusercontent.com/mazen-create11/certifications/main/Building_AI_University_of_Helsinki_Completion_Mazen_Chaban.png",
+    "credential_id": "21/21 exercises completed (100%)",
+    "verification_url": null,
     "on_linkedin": true,
+    "has_direct_diploma_button": false,
     "local_file": "Building_AI_University_of_Helsinki_Completion_Mazen_Chaban.png"
   },
   {
@@ -45,8 +71,9 @@
     "issuer": "Databricks",
     "issue_date": "2026-10",
     "credential_id": null,
-    "verification_url": "https://github.com/mazen-create11/certifications",
+    "verification_url": null,
     "on_linkedin": true,
+    "has_direct_diploma_button": false,
     "local_file": null
   },
   {
@@ -55,93 +82,10 @@
     "issuer": "Amazon Web Services (AWS)",
     "issue_date": "2026-10-19",
     "credential_id": "25b0d5d0-3678-429a-91a2-da41bc05f48f",
-    "verification_url": "https://www.credly.com/badges/25b0d5d0-3678-429a-91a2-da41bc05f48f",
+    "verification_url": null,
     "on_linkedin": true,
+    "has_direct_diploma_button": false,
     "local_file": "AWS_Educate_Intro_to_Generative_AI_Badge.png"
-  },
-  {
-    "category": "Sales & Operations",
-    "title": "HubSpot Revenue Operations Certified",
-    "issuer": "HubSpot Academy",
-    "issue_date": "2026-10",
-    "expiration_date": "2028-11",
-    "credential_id": "5d3v3079",
-    "verification_url": "https://app-eu1.hubspot.com/academy/achievements/5d3v3079/en/1/mazen-chaban/revenue-operations",
-    "on_linkedin": true,
-    "local_file": "HubSpot_Revenue_Operations_Certification_Mazen_Chaban.png"
-  },
-  {
-    "category": "Marketing & Growth",
-    "title": "Inbound Marketing Certified",
-    "issuer": "HubSpot Academy",
-    "issue_date": "2026-05-15",
-    "expiration_date": "2028-06-13",
-    "credential_id": "daead3d5c9d34d1fb5362c649f00e492",
-    "verification_url": null,
-    "on_linkedin": false,
-    "local_file": "HubSpot_Inbound_Marketing_Certification_Mazen_Chaban.png"
-  },
-  {
-    "category": "Sales & Business",
-    "title": "Inbound Sales Certified",
-    "issuer": "HubSpot Academy",
-    "issue_date": "2026-05-15",
-    "expiration_date": "2028-06-13",
-    "credential_id": "44a65ca01ac54f40ad0d919fd342e34b",
-    "verification_url": null,
-    "on_linkedin": false,
-    "local_file": "HubSpot_Inbound_Sales_Certification_Mazen_Chaban.png"
-  },
-  {
-    "category": "Methodology & CRM",
-    "title": "Inbound Certified",
-    "issuer": "HubSpot Academy",
-    "issue_date": "2026-05-14",
-    "expiration_date": "2028-06-12",
-    "credential_id": "05e6bf9f3b044cd198c34e2e95570e46",
-    "verification_url": null,
-    "on_linkedin": false,
-    "local_file": "HubSpot_Inbound_Certification_Mazen_Chaban.png"
-  },
-  {
-    "category": "Workplace Health & Safety",
-    "title": "Acquérir des bases en prévention des risques professionnels",
-    "issuer": "INRS France",
-    "issue_date": "2026-10-03",
-    "credential_id": "385593",
-    "verification_url": null,
-    "on_linkedin": true,
-    "local_file": "INRS_Prevention_Risques_Professionnels_Mazen_Chaban.pdf"
-  },
-  {
-    "category": "Business & Tech",
-    "title": "Bootcamp Digital Business Developer (Formation 3 mois)",
-    "issuer": "Rocket School",
-    "issue_date": "2026-09-18",
-    "credential_id": "Certification Cyril Pierre de Geyer",
-    "verification_url": null,
-    "on_linkedin": false,
-    "local_file": "Rocket_School_Bootcamp_Digital_Business_Developer_Mazen_Chaban.pdf"
-  },
-  {
-    "category": "Artificial Intelligence",
-    "title": "Agents and Workflows",
-    "issuer": "OpenAI",
-    "issue_date": "2026-09",
-    "credential_id": "vdxv1royqb",
-    "verification_url": null,
-    "on_linkedin": true,
-    "local_file": null
-  },
-  {
-    "category": "Artificial Intelligence",
-    "title": "AI Foundations",
-    "issuer": "OpenAI",
-    "issue_date": "2026-09",
-    "credential_id": "v683jp2hgn",
-    "verification_url": null,
-    "on_linkedin": true,
-    "local_file": null
   },
   {
     "category": "Artificial Intelligence",
@@ -151,6 +95,7 @@
     "credential_id": "rpw5omsvqxqj",
     "verification_url": null,
     "on_linkedin": true,
+    "has_direct_diploma_button": false,
     "local_file": null
   },
   {
@@ -161,6 +106,7 @@
     "credential_id": "8dnomhbft7w2",
     "verification_url": null,
     "on_linkedin": true,
+    "has_direct_diploma_button": false,
     "local_file": null
   },
   {
@@ -171,66 +117,139 @@
     "credential_id": "uymokm93nzi6",
     "verification_url": null,
     "on_linkedin": true,
+    "has_direct_diploma_button": false,
     "local_file": null
   },
   {
-    "category": "Design & AI",
+    "category": "Revenue & Sales Operations",
+    "title": "HubSpot Revenue Operations Certified",
+    "issuer": "HubSpot Academy",
+    "issue_date": "2026-10",
+    "credential_id": "5d3v3079",
+    "verification_url": "https://app-eu1.hubspot.com/academy/achievements/5d3v3079/en/1/mazen-chaban/hubspot-revenue-operations-certified",
+    "on_linkedin": true,
+    "has_direct_diploma_button": true,
+    "local_file": "HubSpot_Revenue_Operations_Certification_Mazen_Chaban.png"
+  },
+  {
+    "category": "Marketing & Sales",
+    "title": "Inbound Marketing Certified",
+    "issuer": "HubSpot Academy",
+    "issue_date": "2026-05",
+    "credential_id": "daead3d5c9d34d1fb5362c649f00e492",
+    "verification_url": null,
+    "on_linkedin": false,
+    "has_direct_diploma_button": false,
+    "local_file": "HubSpot_Inbound_Marketing_Certification_Mazen_Chaban.png"
+  },
+  {
+    "category": "Marketing & Sales",
+    "title": "Inbound Sales Certified",
+    "issuer": "HubSpot Academy",
+    "issue_date": "2026-05",
+    "credential_id": "44a65ca01ac54f40ad0d919fd342e34b",
+    "verification_url": null,
+    "on_linkedin": false,
+    "has_direct_diploma_button": false,
+    "local_file": "HubSpot_Inbound_Sales_Certification_Mazen_Chaban.png"
+  },
+  {
+    "category": "Marketing & Sales",
+    "title": "Inbound Certified",
+    "issuer": "HubSpot Academy",
+    "issue_date": "2026-05",
+    "credential_id": "05e6bf9f3b044cd198c34e2e95570e46",
+    "verification_url": null,
+    "on_linkedin": false,
+    "has_direct_diploma_button": false,
+    "local_file": "HubSpot_Inbound_Certification_Mazen_Chaban.png"
+  },
+  {
+    "category": "Business Development",
+    "title": "Bootcamp Digital Business Developer (Formation 3 mois)",
+    "issuer": "Rocket School",
+    "issue_date": "2026-03-30",
+    "credential_id": "Cyril Pierre de Geyer",
+    "verification_url": null,
+    "on_linkedin": false,
+    "has_direct_diploma_button": false,
+    "local_file": "Mazen_CHABAN_Attestation_de_formation.pdf"
+  },
+  {
+    "category": "Workplace Safety & Prevention",
+    "title": "Acquérir des bases en prévention des risques professionnels",
+    "issuer": "INRS France",
+    "issue_date": "2026-10-03",
+    "credential_id": "385593",
+    "verification_url": null,
+    "on_linkedin": true,
+    "has_direct_diploma_button": false,
+    "local_file": "INRS_Prevention_Risques_Professionnels_Mazen_Chaban.pdf"
+  },
+  {
+    "category": "Digital Design & AI",
     "title": "Les indispensables de l'enseignement",
     "issuer": "Canva",
     "issue_date": "2026-05-16",
     "credential_id": "38914b43-1620-40e1-b4ec-6a75be48cb56",
     "verification_url": null,
     "on_linkedin": true,
+    "has_direct_diploma_button": false,
     "local_file": "Canva_Les_Indispensables_Enseignement_Mazen_Chaban.pdf"
   },
   {
-    "category": "Design & AI",
+    "category": "Digital Design & AI",
     "title": "Travailler plus intelligemment avec l'IA",
     "issuer": "Canva",
     "issue_date": "2026-05-16",
     "credential_id": "7310e52a-9cb8-4e89-8b0d-cb904b77f987",
     "verification_url": null,
     "on_linkedin": false,
+    "has_direct_diploma_button": false,
     "local_file": "Canva_Travailler_Plus_Intelligemment_Avec_IA_Mazen_Chaban.pdf"
   },
   {
-    "category": "Design & Creative",
+    "category": "Digital Design & AI",
     "title": "Créer des campagnes créatives à grande échelle",
     "issuer": "Canva",
     "issue_date": "2026-05-16",
     "credential_id": "879f972d-1144-4861-8418-45ec6ea6ec16",
     "verification_url": null,
     "on_linkedin": false,
+    "has_direct_diploma_button": false,
     "local_file": "Canva_Creer_Campagnes_Creatives_Mazen_Chaban.pdf"
   },
   {
-    "category": "Design & Creative",
+    "category": "Digital Design & AI",
     "title": "Découvrir la Suite Studio Canva",
     "issuer": "Canva",
     "issue_date": "2026-05-15",
     "credential_id": "751ed252-db6c-482d-8622-44670c5aa811",
     "verification_url": null,
     "on_linkedin": false,
+    "has_direct_diploma_button": false,
     "local_file": "Canva_Suite_Studio_Mazen_Chaban.pdf"
   },
   {
-    "category": "Design & Creative",
+    "category": "Digital Design & AI",
     "title": "Créer du contenu percutant",
     "issuer": "Canva",
     "issue_date": "2026-05-16",
     "credential_id": "ef606132-e028-4444-933a-9e1201dcfa04",
     "verification_url": null,
     "on_linkedin": false,
+    "has_direct_diploma_button": false,
     "local_file": "Canva_Creer_Contenu_Percutant_Mazen_Chaban.pdf"
   },
   {
-    "category": "Design & Creative",
+    "category": "Digital Design & AI",
     "title": "Motiver les élèves avec Canva",
     "issuer": "Canva",
     "issue_date": "2026-05-16",
     "credential_id": "ac5a9735-3733-4f51-b844-32515b8eeaf8",
     "verification_url": null,
     "on_linkedin": false,
+    "has_direct_diploma_button": false,
     "local_file": "Canva_Motiver_Eleves_Canva_Mazen_Chaban.pdf"
   }
 ]
