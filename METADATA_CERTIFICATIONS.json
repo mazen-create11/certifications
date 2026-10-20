@@ -34,6 +34,39 @@
   },
   {
     "category": "Artificial Intelligence",
+    "title": "Claude Code in Action",
+    "issuer": "Anthropic",
+    "issue_date": "2026-06-15",
+    "credential_id": "uymokm93nzi6",
+    "verification_url": "https://verify.skilljar.com/c/uymokm93nzi6",
+    "on_linkedin": true,
+    "has_direct_diploma_button": true,
+    "local_file": "Anthropic_Claude_Code_in_Action_Mazen_Chaban.pdf"
+  },
+  {
+    "category": "Artificial Intelligence",
+    "title": "Model Context Protocol: Advanced Topics",
+    "issuer": "Anthropic",
+    "issue_date": "2026-06-15",
+    "credential_id": "8dnomhbft7w2",
+    "verification_url": "https://verify.skilljar.com/c/8dnomhbft7w2",
+    "on_linkedin": true,
+    "has_direct_diploma_button": true,
+    "local_file": "Anthropic_Model_Context_Protocol_Advanced_Topics_Mazen_Chaban.pdf"
+  },
+  {
+    "category": "Artificial Intelligence",
+    "title": "Certificate of completion: Introduction to agent skills",
+    "issuer": "Anthropic",
+    "issue_date": "2026-06-15",
+    "credential_id": "rpw5omsvqxqj",
+    "verification_url": "https://verify.skilljar.com/c/rpw5omsvqxqj",
+    "on_linkedin": true,
+    "has_direct_diploma_button": true,
+    "local_file": "Anthropic_Introduction_to_agent_skills_Mazen_Chaban.pdf"
+  },
+  {
+    "category": "Artificial Intelligence",
     "title": "AI Foundations",
     "issuer": "OpenAI",
     "issue_date": "2026-09-01",
@@ -86,39 +119,6 @@
     "on_linkedin": true,
     "has_direct_diploma_button": false,
     "local_file": "AWS_Educate_Intro_to_Generative_AI_Badge.png"
-  },
-  {
-    "category": "Artificial Intelligence",
-    "title": "Certificate of completion: Introduction to agent skills",
-    "issuer": "Anthropic",
-    "issue_date": "2026-06",
-    "credential_id": "rpw5omsvqxqj",
-    "verification_url": null,
-    "on_linkedin": true,
-    "has_direct_diploma_button": false,
-    "local_file": null
-  },
-  {
-    "category": "Artificial Intelligence",
-    "title": "Model Context Protocol: Advanced Topics",
-    "issuer": "Anthropic",
-    "issue_date": "2026-06",
-    "credential_id": "8dnomhbft7w2",
-    "verification_url": null,
-    "on_linkedin": true,
-    "has_direct_diploma_button": false,
-    "local_file": null
-  },
-  {
-    "category": "Artificial Intelligence",
-    "title": "Claude Code in Action",
-    "issuer": "Anthropic",
-    "issue_date": "2026-06",
-    "credential_id": "uymokm93nzi6",
-    "verification_url": null,
-    "on_linkedin": true,
-    "has_direct_diploma_button": false,
-    "local_file": null
   },
   {
     "category": "Revenue & Sales Operations",

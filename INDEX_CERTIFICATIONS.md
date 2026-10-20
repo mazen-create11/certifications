@@ -14,6 +14,16 @@ Ce dossier centralise l'ensemble des certifications, diplômes et accréditation
 
 ---
 
+## 🟣 Anthropic (Claude Academy & Education)
+
+| Intitulé | Date | ID Diplôme | Vérification Publique | Fichiers Locaux | État LinkedIn |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Claude Code in Action** | Juin 2026 | `uymokm93nzi6` | [Vérifier sur Skilljar](https://verify.skilljar.com/c/uymokm93nzi6) | [`PDF`](file:///Users/chabanmazen/Certifications/Anthropic_Claude_Code_in_Action_Mazen_Chaban.pdf) / [`PNG`](file:///Users/chabanmazen/Certifications/Anthropic_Claude_Code_in_Action_Mazen_Chaban.png) | **Lien Direct Actif ✅** |
+| **Model Context Protocol: Advanced Topics** | Juin 2026 | `8dnomhbft7w2` | [Vérifier sur Skilljar](https://verify.skilljar.com/c/8dnomhbft7w2) | [`PDF`](file:///Users/chabanmazen/Certifications/Anthropic_Model_Context_Protocol_Advanced_Topics_Mazen_Chaban.pdf) / [`PNG`](file:///Users/chabanmazen/Certifications/Anthropic_Model_Context_Protocol_Advanced_Topics_Mazen_Chaban.png) | **Lien Direct Actif ✅** |
+| **Certificate of completion: Introduction to agent skills** | Juin 2026 | `rpw5omsvqxqj` | [Vérifier sur Skilljar](https://verify.skilljar.com/c/rpw5omsvqxqj) | [`PDF`](file:///Users/chabanmazen/Certifications/Anthropic_Introduction_to_agent_skills_Mazen_Chaban.pdf) / [`PNG`](file:///Users/chabanmazen/Certifications/Anthropic_Introduction_to_agent_skills_Mazen_Chaban.png) | **Lien Direct Actif ✅** |
+
+---
+
 ## 🤖 OpenAI Academy
 
 | Intitulé | Date | ID Diplôme | Vérification Publique | Fichiers Locaux | État LinkedIn |
@@ -29,19 +39,14 @@ Ce dossier centralise l'ensemble des certifications, diplômes et accréditation
 | :--- | :---: | :---: | :---: | :---: |
 | **Building AI** | Oct. 2026 | 100% (21/21 exercices complétés) | [`Preuve PNG`](file:///Users/chabanmazen/Certifications/Building_AI_University_of_Helsinki_Completion_Mazen_Chaban.png) | **Affiché avec Logo Officiel (Sans lien payant) ✅** |
 
-> *Note : Elements of AI valide le cours à 100 % gratuitement mais facture 50 € la génération du certificat électronique via MinnaLearn. La certification est affichée proprement sur votre profil LinkedIn sans bouton trompeur.*
-
 ---
 
-## ☁️ Cloud & Accréditations IA (Databricks, AWS Educate, Anthropic)
+## ☁️ Cloud & Accréditations (Databricks & AWS Educate)
 
 | Organisme | Intitulé | Date | ID / Référence | Fichier Local | État LinkedIn |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | **Databricks** | Generative AI Fundamentals Accreditation | Oct. 2026 | Accréditation officielle | — | **Affiché proprement (Sans lien SAML) ✅** |
-| **Amazon Web Services (AWS)** | Introduction to Generative Artificial Intelligence | Oct. 2026 | Badge Credly `25b0d5d0-3678-429a-91a2-da41bc05f48f` | [`Badge PNG`](file:///Users/chabanmazen/Certifications/AWS_Educate_Intro_to_Generative_AI_Badge.png) | **Affiché proprement avec ID (Sans lien compte) ✅** |
-| **Anthropic** | Certificate of completion: Introduction to agent skills | Juin 2026 | `rpw5omsvqxqj` | — | **Affiché avec ID ✅** |
-| **Anthropic** | Model Context Protocol: Advanced Topics | Juin 2026 | `8dnomhbft7w2` | — | **Affiché avec ID ✅** |
-| **Anthropic** | Claude Code in Action | Juin 2026 | `uymokm93nzi6` | — | **Affiché avec ID ✅** |
+| **Amazon Web Services (AWS)** | Introduction to Generative Artificial Intelligence | Oct. 2026 | Badge Credly `25b0d5d0-3678-429a-91a2-da41bc05f48f` | [`Badge PNG`](file:///Users/chabanmazen/Certifications/AWS_Educate_Intro_to_Generative_AI_Badge.png) | **Affiché avec ID Badge (Sans lien compte) ✅** |
 
 ---
 
